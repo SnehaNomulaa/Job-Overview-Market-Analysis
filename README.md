@@ -28,6 +28,18 @@ Navigating the modern job market requires deep visibility into in-demand skills,
 
 ---
 
+## 📸 Dashboard Preview
+
+### Page 1 — Job Market & Recruitment Overview
+
+![Job Market Overview](images/dashboard_page1.png)
+
+### Page 2 — Salary & Skills Benchmark
+
+![Salary and Skills Benchmark](images/dashboard_page2.png)
+
+---
+
 ## 📂 Project Structure
 
 ```text
