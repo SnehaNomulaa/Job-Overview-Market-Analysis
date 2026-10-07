@@ -40,6 +40,14 @@ Navigating the modern job market requires deep visibility into in-demand skills,
 
 ---
 
+## 📁 Dataset
+
+The analysis uses a 52,000-record job market dataset containing information on job roles, companies, locations, salaries, skills, education, work mode, applications, and industries.
+
+The dataset is not included in this repository. The notebook demonstrates the data cleaning, preprocessing, and exploratory analysis workflow using the dataset as an input.
+
+---
+
 ## 📂 Project Structure
 
 ```text
